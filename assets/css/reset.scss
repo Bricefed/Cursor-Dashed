@@ -5,6 +5,15 @@ body, body::before, body::after,
   box-sizing: border-box;
 }
 
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  overflow: hidden;
+  cursor: none;
+}
+
 html {
   font-size: 62.5%; // 1rem <=> 10px
   font-family: Arial, Helvetica, sans-serif;
