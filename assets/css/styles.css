@@ -68,6 +68,10 @@ p {
   pointer-events: none;
 }
 
+h2 {
+  text-transform: uppercase;
+}
+
 h2:hover ~ #cursor {
   width: 100px;
   height: 100px;
