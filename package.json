@@ -1,0 +1,23 @@
+{
+  "name": "Dashed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bricefed/Cursor-Dashed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bricefed/Cursor-Dashed/issues"
+  },
+  "homepage": "https://github.com/Bricefed/Cursor-Dashed#readme",
+  "dependencies": {
+    "sass": "^1.54.9"
+  }
+}
